@@ -5,7 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Spawner
-  - Board
+  - Border
   layers:
   - Default
   - TransparentFX
