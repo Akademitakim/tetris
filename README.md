@@ -79,7 +79,7 @@ Escapists
     <li><b>Sprint içinde tamamlanması tahmin edilen puan:</b>240</li>
     <li><b>Puan tamamlama mantığı:</li></b>İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
      <li><b>Daily Scrum:</b> Daily Scrum toplantıları zamansal sıkıntılardan dolayı discord üzerinden sesli olarak yapılmıştır.<img src="sprint3.jpeg" width="auto"></li>
-    <li><b>Sprint board update:<img src="Ekran görüntüsü 2023-07-16 232846.png" width="auto"></li><b>
+    <li><b>Sprint board update:<img src="sprint.png" width="auto"></li><b>
         <li><b>Ürün durumu:<img src="sprint_3.png" width="auto"></li><b>
         <li><b>Sprint Review:</b>Yapılacak oyun değiştirilmiştir.Tetris oyunu yapılmaya karar verilmiştir.Görevler dağıtıldı ve yapılmaya başlandı.</li>
    <li><b>Sprint Retrospective:</b>Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapıldı.</li>
