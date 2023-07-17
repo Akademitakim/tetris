@@ -82,7 +82,7 @@ Escapists
     <li><b>Sprint board update:<img src="Ekran görüntüsü 2023-07-16 232846.png" width="auto"></li><b>
         <li><b>Ürün durumu:<img src="sprint_3.png" width="auto"></li><b>
         <li><b>Sprint Review:</b>Yapılacak oyun değiştirilmiştir.Tetris oyunu yapılmaya karar verilmiştir.Görevler dağıtıldı ve yapılmaya başlandı.</li>
-   <li><b>Sprint Retrospective:</b>Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</li>
+   <li><b>Sprint Retrospective:</b>Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapıldı.</li>
    <h2><p>Product Backlog URL</h2> https://miro.com/app/board/uXjVMAc-x7c=/</p>
 
    
